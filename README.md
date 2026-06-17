@@ -79,11 +79,6 @@ https://www.linkedin.com/in/shanmukhavardhanksv/
 ### Email:
 shanmukhakinjangi@gmail.com
 
-## GitHub Stats
-
-![Vardhan's GitHub Stats](https://github-readme-stats.vercel.app/api?username=vardhan63017&show_icons=true&theme=tokyonight)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=vardhan63017&layout=compact&theme=tokyonight)
 
 
 
