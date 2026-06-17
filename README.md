@@ -52,17 +52,23 @@
 
 Book marketplace platform built using HTML, CSS, JavaScript and Bootstrap.
 
+**Tech Stack:** HTML5, CSS3, JavaScript, Bootstrap
+
 🔗 Live Demo: https://ksv-bookbridge.vercel.app/
+
+📂 Source Code: https://github.com/vardhan63017/bookBridge
 
 ---
 
 ### 🎯 ConfidentMe
 
-Mock interview preparation platform for technical and HR interview preparation.
+Mock interview preparation platform for technical and HR interview practice.
 
 **Tech Stack:** React.js, TypeScript, MySQL
 
 🔗 Live Demo: https://v0-confidentme.vercel.app/
+
+📂 Source Code: https://github.com/vardhan63017/confidentme
 
 ---
 
@@ -73,6 +79,8 @@ Student mentorship and career guidance platform connecting students with mentors
 **Tech Stack:** HTML, CSS, JavaScript
 
 🔗 Live Demo: https://skill-analysis-tool.netlify.app/
+
+📂 Source Code: https://github.com/vardhan63017/guidancebridge
 
 ---
 
