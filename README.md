@@ -1,4 +1,4 @@
-<img width="128" height="128" alt="image" src="https://github.com/user-attachments/assets/61a40b8d-6f5d-4410-ae15-0afc9c5ca075" /><img width="512" height="512" alt="portfolio" src="https://github.com/user-attachments/assets/e130af68-b432-4028-b147-100f956938b0" /># Hi, I'm K. Shanmukha Vardhan 👋
+# Hi, I'm K. Shanmukha Vardhan 👋
 
 ## About Me
 
