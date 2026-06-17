@@ -49,13 +49,30 @@
 ## Featured Projects
 
 ### 📚 BookBridge
+
 Book marketplace platform built using HTML, CSS, JavaScript and Bootstrap.
 
+🔗 Live Demo: https://ksv-bookbridge.vercel.app/
+
+---
+
 ### 🎯 ConfidentMe
-Mock interview preparation platform built with React.js, TypeScript and MySQL.
+
+Mock interview preparation platform for technical and HR interview preparation.
+
+**Tech Stack:** React.js, TypeScript, MySQL
+
+🔗 Live Demo: https://v0-confidentme.vercel.app/
+
+---
 
 ### 🤝 GuidanceBridge
-Student mentorship platform connecting juniors with mentors.
+
+Student mentorship and career guidance platform connecting students with mentors.
+
+**Tech Stack:** HTML, CSS, JavaScript
+
+🔗 Live Demo: https://skill-analysis-tool.netlify.app/
 
 ---
 
