@@ -1,16 +1,76 @@
-## Hi there 👋
+<img width="128" height="128" alt="image" src="https://github.com/user-attachments/assets/61a40b8d-6f5d-4410-ae15-0afc9c5ca075" /><img width="512" height="512" alt="portfolio" src="https://github.com/user-attachments/assets/e130af68-b432-4028-b147-100f956938b0" /># Hi, I'm K. Shanmukha Vardhan 👋
 
-<!--
-**vardhan63017/vardhan63017** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## About Me
 
-Here are some ideas to get you started:
+🎓 B.Tech Computer Science Student (2027)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+💻 Aspiring Software Engineer with interests in Full Stack Development, Java, and Data Structures & Algorithms.
+
+🚀 Passionate about building real-world applications and startup-oriented solutions.
+
+📈 Solved 180+ DSA problems in Java and DBMS.
+
+🏆 Innovatex Event Organizer and Project Team Lead at ANITS.
+
+---
+
+## Technical Skills
+
+### Programming
+- Java
+
+### Web Development
+- HTML5
+- CSS3
+- JavaScript
+- React.js
+- TypeScript
+
+### Databases
+- MySQL
+- MongoDB
+
+### Tools
+- Git
+- GitHub
+- VS Code
+- Figma
+- Vercel
+
+---
+
+## Featured Projects
+
+### 📚 BookBridge
+Book marketplace platform built using HTML, CSS, JavaScript and Bootstrap.
+
+### 🎯 ConfidentMe
+Mock interview preparation platform built with React.js, TypeScript and MySQL.
+
+### 🤝 GuidanceBridge
+Student mentorship platform connecting juniors with mentors.
+
+---
+
+## Achievements
+
+- CGPA: 9.15
+- Solved 180+ LeetCode Problems
+- Winner - Logo Design Competition
+- Prize Winner - Paper Presentation Competition
+
+---
+
+## Connect With Me
+
+### portfolio:
+https://kinjangishanmukhavardhan.vercel.app/
+
+### LinkedIn:
+https://www.linkedin.com/in/shanmukhavardhanksv/
+
+### Email:
+shanmukhakinjangi@gmail.com
+
+
+
