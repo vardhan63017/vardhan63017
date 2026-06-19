@@ -102,7 +102,7 @@ https://kinjangishanmukhavardhan.vercel.app/
 https://www.linkedin.com/in/shanmukhavardhanksv/
 
 ### Email:
-shanmukhavardhan365@gmail.com
+shanmukhakinjangi@gmail.com
 
 
 
