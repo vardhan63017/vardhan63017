@@ -8,7 +8,7 @@
 
 🚀 Passionate about building real-world applications and startup-oriented solutions.
 
-📈 Solved 180+ DSA problems in Java and DBMS.
+📈 Solved 190+ DSA problems in Java and DBMS.
 
 🏆 Innovatex Event Organizer and Project Team Lead at ANITS.
 
