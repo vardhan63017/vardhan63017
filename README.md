@@ -87,7 +87,7 @@ Student mentorship and career guidance platform connecting students with mentors
 ## Achievements
 
 - CGPA: 9.15
-- Solved 180+ LeetCode Problems
+- Solved 190+ LeetCode Problems
 - Winner - Logo Design Competition
 - Prize Winner - Paper Presentation Competition
 
