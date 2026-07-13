@@ -1,109 +1,141 @@
-# Hi, I'm K. Shanmukha Vardhan 👋
+<!-- ====================== HEADER ====================== -->
 
-## About Me
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=700&size=30&duration=2500&pause=1000&color=00C2FF&center=true&vCenter=true&width=900&lines=Hi+%F0%9F%91%8B+I'm+K.+Shanmukha+Vardhan;Software+Engineer+in+the+Making;Java+%7C+MERN+Stack+Developer;190%2B+LeetCode+Problems;Building+Real+World+Projects;Future+Startup+Founder" />
+</p>
 
-🎓 B.Tech Computer Science Student (2027)
-
-💻 Aspiring Software Engineer with interests in Full Stack Development, Java, and Data Structures & Algorithms.
-
-🚀 Passionate about building real-world applications and startup-oriented solutions.
-
-📈 Solved 190+ DSA problems in Java and DBMS.
-
-🏆 Innovatex Event Organizer and Project Team Lead at ANITS.
+<h3 align="center">
+🚀 Turning Ideas into Scalable Software 🚀
+</h3>
 
 ---
 
-## Technical Skills
+# 👨‍💻 About Me
 
-### Programming Languages
+🎓 Final Year B.Tech Computer Science Student
 
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+💻 Aspiring Software Engineer passionate about solving real-world problems.
 
-### Frontend
+🔥 Solving LeetCode consistently using Java.
 
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-
-### Backend
-
-![NodeJS](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![ExpressJS](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
-
-### Databases
-
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-
-### Tools
-
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![VSCode](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
+🚀 Interested in building scalable products and startup-focused applications.
 
 ---
 
-## Featured Projects
+# 🏆 Highlights
 
-### 📚 BookBridge
-
-Book marketplace platform built using HTML, CSS, JavaScript and Bootstrap.
-
-**Tech Stack:** HTML5, CSS3, JavaScript, Bootstrap
-
-🔗 Live Demo: https://ksv-bookbridge.vercel.app/
-
-📂 Source Code: https://github.com/vardhan63017/bookBridge
+- 🎯 CGPA: **9.15**
+- 💻 Solved **220+ DSA Problems**
+- 🏅 Innovatex Event Organizer
+- 👨‍💼 Final year Project Team Lead @ ANITS
+- 🚀 Building Production-Ready Applications
 
 ---
 
-### 🎯 ConfidentMe
+#  Tech Stack
 
-Mock interview preparation platform for technical and HR interview practice.
+<p align="center">
+<img src="https://skillicons.dev/icons?i=java,js,react,nodejs,express,mongodb,mysql,html,css,git,github,vscode,vercel&perline=7"/>
+</p>
 
-**Tech Stack:** React.js, TypeScript, MySQL
-
-🔗 Live Demo: https://v0-confidentme.vercel.app/
-
-📂 Source Code: https://github.com/vardhan63017/confidentme
 
 ---
 
-### 🤝 GuidanceBridge
+# 📈 Contribution Graph
 
-Student mentorship and career guidance platform connecting students with mentors.
-
-**Tech Stack:** HTML, CSS, JavaScript
-
-🔗 Live Demo: https://skill-analysis-tool.netlify.app/
-
-📂 Source Code: https://github.com/vardhan63017/guidancebridge
+<p align="center">
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=vardhan63017&theme=tokyo-night&hide_border=true"/>
+</p>
 
 ---
 
-## Achievements
+#  Featured Projects
 
-- CGPA: 9.15
-- Solved 190+ LeetCode Problems
-- Winner - Logo Design Competition
-- Prize Winner - Paper Presentation Competition
+##  BookBridge
+
+A marketplace platform for buying and selling books.
+
+**Tech Stack:** HTML • CSS • JavaScript • Bootstrap
+
+🌐 **Live Demo:**  
+https://ksv-bookbridge.vercel.app/
+
+💻 **Source Code:**  
+https://github.com/vardhan63017/bookBridge
 
 ---
 
-## Connect With Me
+##  ConfidentMe
 
-### portfolio:
-https://kinjangishanmukhavardhan.vercel.app/
+Mock interview preparation platform for Technical & HR interviews.
 
-### LinkedIn:
-https://www.linkedin.com/in/shanmukhavardhanksv/
+**Tech Stack:** React • TypeScript • MySQL
 
-### Email:
-shanmukhakinjangi@gmail.com
+🌐 **Live Demo:**  
+https://v0-confidentme.vercel.app/
 
+💻 **Source Code:**  
+https://github.com/vardhan63017/confidentme
 
+---
 
+##  GuidanceBridge
 
+Student mentorship platform connecting students with mentors.
+
+**Tech Stack:** HTML • CSS • JavaScript
+
+🌐 **Live Demo:**  
+https://skill-analysis-tool.netlify.app/
+
+💻 **Source Code:**  
+https://github.com/vardhan63017/guidancebridge
+
+---
+
+# 🎯 Current Goals
+
+-  Reach **500+ LeetCode Problems**
+-  Build Production-Level MERN Applications
+-  Learn AWS Cloud
+-  Learn System Design
+-  Crack a Software Internship
+-  Build My Startup MVP
+
+---
+
+#  Connect With Me
+
+<p align="center">
+
+<a href="https://kinjangishanmukhavardhan.vercel.app">
+<img src="https://img.shields.io/badge/Portfolio-Visit_My_Website-0A66C2?style=for-the-badge&logo=googlechrome&logoColor=white"/>
+</a>
+
+<a href="https://www.linkedin.com/in/shanmukhavardhanksv/">
+<img src="https://img.shields.io/badge/LinkedIn-Shanmukha_Vardhan-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="mailto:shanmukhakinjangi@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-Contact_Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+<a href="https://leetcode.com/u/YOUR_LEETCODE_USERNAME/">
+<img src="https://img.shields.io/badge/LeetCode-190%2B_Problems-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/>
+</a>
+
+</p>
+
+---
+
+#  Profile Views
+
+<p align="center">
+<img src="https://komarev.com/ghpvc/?username=vardhan63017&style=for-the-badge&label=PROFILE+VIEWS&color=brightgreen"/>
+</p>
+
+---
+
+<p align="center">
+⭐ Thanks for visiting my profile! ⭐
+</p>
