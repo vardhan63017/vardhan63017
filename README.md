@@ -1,7 +1,7 @@
 <!-- ====================== HEADER ====================== -->
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=700&size=30&duration=2500&pause=1000&color=00C2FF&center=true&vCenter=true&width=900&lines=Hi+%F0%9F%91%8B+I'm+K.+Shanmukha+Vardhan;Software+Engineer+in+the+Making;Java+%7C+MERN+Stack+Developer;190%2B+LeetCode+Problems;Building+Real+World+Projects;Future+Startup+Founder" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=700&size=30&duration=2500&pause=1000&color=00C2FF&center=true&vCenter=true&width=900&lines=Hi+%F0%9F%91%8B+I'm+K.+Shanmukha+Vardhan;Software+Engineer+in+the+Making;Java+%7C+MERN+Stack+Developer;250%2B+LeetCode+Problems;Building+Real+World+Projects;Future+Startup+Founder" />
 </p>
 
 <h3 align="center">
@@ -25,7 +25,7 @@
 # 🏆 Highlights
 
 - 🎯 CGPA: **9.15**
-- 💻 Solved **220+ DSA Problems**
+- 💻 Solved **250+ DSA Problems**
 - 🏅 Innovatex Event Organizer
 - 👨‍💼 Final year Project Team Lead @ ANITS
 - 🚀 Building Production-Ready Applications
@@ -95,7 +95,7 @@ https://github.com/vardhan63017/guidancebridge
 
 # 🎯 Current Goals
 
--  Reach **500+ LeetCode Problems**
+-  Reach **400+ LeetCode Problems**
 -  Build Production-Level MERN Applications
 -  Learn AWS Cloud
 -  Learn System Design
